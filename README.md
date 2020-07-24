@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 [![Twitter Follow](https://img.shields.io/twitter/follow/sriharikapu?style=social)](https://www.twitter.com/sriharikapu)
 [![Linkedin Badge](https://img.shields.io/badge/-sriharikapu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sriharikapu/)](https://www.linkedin.com/in/sriharikapu/)
 [![Instagram Badge](https://img.shields.io/badge/-sriharikapu-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sriharikapu/)](https://www.instagram.com/sriharikapu/)
+[![Medium Badge](https://img.shields.io/badge/-sriharikapu-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@sriharikapu)](https://medium.com/@sriharikapu)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/sriharikapu163@gmail.com)
 
 

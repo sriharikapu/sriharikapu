@@ -32,14 +32,9 @@ I'm fun to work with, I always like to learn new things from others as much help
 [![Website Badge](https://img.shields.io/badge/-sriharikapu-windows?style=flat-square&logo=Safari&logoColor=white&link=http://sriharikapu.com)](http://www.sriharikapu.com/)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/sriharikapu163@gmail.com)
 
-
-
+<!--
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sriharikapu)](https://github.com/LordDashMe/github-contribution-stats/)
-
-
-
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=sriharikapu&show_icons=true&title_color=62BFAD&icon_color=79ff97&text_color=F7F8E8&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriharikapu)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriharikapu&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+-->

@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/sriharikapu?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/sriharikapu?style=social)
 [![Linkedin Badge](https://img.shields.io/badge/-sriharikapu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sriharikapu/)](https://www.linkedin.com/in/sriharikapu/)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/sriharikapu163@gmail.com)
+
 
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sriharikapu)](https://github.com/LordDashMe/github-contribution-stats/)

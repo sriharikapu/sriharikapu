@@ -22,8 +22,9 @@ I'm fun to work with, I always like to learn new things from others as much help
 
 
 <a href="https://github.com/sriharikapu/sriharikapu/blob/master/.github/ISSUE_TEMPLATE/Guestbook_entry.md">
-<strong> ___ 🖋 Write into my guest book</strong><br />
-
+<strong> ___ 🖋 Write into my guest book</strong>
+<br/>
+<br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/sriharikapu?style=social)](https://www.github.com/sriharikapu)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sriharikapu?style=social)](https://www.twitter.com/sriharikapu)

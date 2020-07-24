@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![ACADEMIA Badge](https://img.shields.io/badge/-sriharikapu-yellow?style=flat-square&logo=Academia&logoColor=white&link=https://independent.academia.edu/SrihariKapu)](https://independent.academia.edu/SrihariKapu)
 [![Facebook Badge](https://img.shields.io/badge/-sriharikapu-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/officialsriharikapu)](https://www.facebook.com/officialsriharikapu)
 [![Medium Badge](https://img.shields.io/badge/-sriharikapu-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@sriharikapu)](https://medium.com/@sriharikapu)
-[![Telegram Badge](https://img.shields.io/badge/-sriharikapu-azure?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@sriharikapu)](https://telegram.org/@sriharikapu)
+[![Telegram Badge](https://img.shields.io/badge/-sriharikapu-gold?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@sriharikapu)](https://telegram.org/@sriharikapu)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/sriharikapu163@gmail.com)
 
 

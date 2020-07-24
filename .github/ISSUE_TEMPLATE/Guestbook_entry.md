@@ -5,7 +5,7 @@ title: ''
 ---
 
 <div align="center">
-  <img style="width:30%;" src="https://github.com/sriharikapu/sriharikapu/blob/master/bnc.png?raw=true" alt="Guestbook" />
+  <img style="width:10%;" src="https://github.com/sriharikapu/sriharikapu/blob/master/bnc.png?raw=true" alt="Guestbook" />
   <br />
 </div>
 

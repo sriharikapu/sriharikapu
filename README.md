@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Srihari Kapu](https://github.com/sriharikapu/sriharikapu/blob/master/CO.png?raw=true)
 
-![GitHub followers](https://img.shields.io/github/followers/sriharikapu?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/sriharikapu?style=social)](https://www.github.com/sriharikapu)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sriharikapu?style=social)](https://www.twitter.com/sriharikapu)
 [![Linkedin Badge](https://img.shields.io/badge/-sriharikapu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sriharikapu/)](https://www.linkedin.com/in/sriharikapu/)
 [![Instagram Badge](https://img.shields.io/badge/-sriharikapu-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sriharikapu/)](https://www.instagram.com/sriharikapu/)

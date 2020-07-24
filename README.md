@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Srihari Kapu](https://github.com/sriharikapu/sriharikapu/blob/master/1.png?raw=true)
+![Srihari Kapu](https://github.com/sriharikapu/sriharikapu/blob/master/CO.png?raw=true)
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sriharikapu)](https://github.com/LordDashMe/github-contribution-stats/)
 

@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 
 I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experement, learn, survive and thrive. Let's code for good.
 
-
-
-<br/>
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/sriharikapu?style=social)](https://www.github.com/sriharikapu)
@@ -41,6 +38,8 @@ I'm fun to work with, I always like to learn new things from others as much as h
 ![Stats](https://github.com/sriharikapu/sriharikapu/blob/master/stats-w.png?raw=true)  
 -->
 
+<br/>
+<br/>
 
 > Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
 > -- Steve Jobs

@@ -43,7 +43,9 @@ I'm fun to work with, I always like to learn new things from others as much as h
 <strong> ___ 🖋 Write into my guest book</strong></a>
 <br/>
 <br/>  
+  
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/sriharikapu163@gmail.com)
+
 </div>
 
 <!--

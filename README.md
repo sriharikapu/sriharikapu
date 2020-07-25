@@ -37,7 +37,7 @@ I'm fun to work with, I always like to learn new things from others as much as h
 
 
 
-# Tools (Table)
+# Tools I Use
 
 | Tool | LOC/Commits  |   
 | :--- | -------: | 
@@ -73,6 +73,11 @@ I'm fun to work with, I always like to learn new things from others as much as h
 | moment | 229   | 
 | Guava | 125   | 
 | Application Architecture | 157   | 
+
+# Tools I Use
+
+| Tool | LOC/Commits  |   
+| :--- | -------: | 
 | async | 25376   | 
 | Boost.Signals2 | 675   | 
 | Boost | 1592   | 
@@ -86,7 +91,35 @@ I'm fun to work with, I always like to learn new things from others as much as h
 | Data Science | 49   | 
 | d3 | 25   | 
 | pandas | 3   | 
-
+| Security | 20   | 
+| libsodium | 218   | 
+| LibreSSL | 867   | 
+| s2n | 62367   | 
+| Storage | 8   | 
+| LevelDB | 22202   | 
+| SQLite | 123   | 
+| Python Web | 8   | 
+| django | 10   | 
+| Efficient Data | 6   | 
+| Snappy | 86   | 
+| Networking | 6   | 
+| libevent | 1430   | 
+| Deep Learning | 4   | 
+| tensorflow | 41   | 
+| Computational Science | 4   | 
+| numpy | 3   | 
+| Faster Code | 4   | 
+| immutable | 52   | 
+| Interoperability | 4   | 
+| Babel Loader | 29   | 
+| Command Line Interface | 4   | 
+| Chalk | 19   | 
+| Computer Vision | 3   | 
+| opencv | 1   | 
+| Image Processing | 2   | 
+| PIL | 6   | 
+| Diagnostics | 2   | 
+| templog | 22   | 
 
 
 

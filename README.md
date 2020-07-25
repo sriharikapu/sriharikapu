@@ -35,10 +35,11 @@ I'm fun to work with, I always like to learn new things from others as much as h
 [![Sourcerer Badge](https://img.shields.io/badge/-sriharikapu-orange?style=flat-square&logo=Scribd&logoColor=white&link=https://sourcerer.io/sriharikapu)](https://sourcerer.io/sriharikapu)
 [![Website Badge](https://img.shields.io/badge/-sriharikapu-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=http://sriharikapu.com)](http://www.sriharikapu.com/)
 
-
+<!--
 # Fun Facts
-| ![Stats](https://github.com/sriharikapu/sriharikapu/blob/master/stats.png?raw=true) | ![Stats](https://github.com/sriharikapu/sriharikapu/blob/master/stats-w.png?raw=true)  | 
-
+ ![Stats](https://github.com/sriharikapu/sriharikapu/blob/master/stats.png?raw=true) 
+![Stats](https://github.com/sriharikapu/sriharikapu/blob/master/stats-w.png?raw=true)  
+-->
 
 
 <div align="right">

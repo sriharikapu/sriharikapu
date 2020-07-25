@@ -1,7 +1,4 @@
-### Hi there 👋 , I'm [Srihari Kapu](https://www.github.com/sriharikapu)
-<p  align="right">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=sriharikapu" alt="visitor badge"/>       
-</p>
+### Hi there 👋 , I'm [Srihari Kapu](https://www.github.com/sriharikapu) <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=sriharikapu" alt="visitor badge"/></p>
 
 <!--
 **sriharikapu/sriharikapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

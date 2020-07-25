@@ -1,4 +1,7 @@
 ### Hi there 👋 , I'm [Srihari Kapu](https://www.github.com/sriharikapu)
+<p  align="right">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sriharikapu" alt="visitor badge"/>       
+</p>
 
 <!--
 **sriharikapu/sriharikapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,9 +43,7 @@ I'm fun to work with, I always like to learn new things from others as much as h
 
 
 
-<p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=sriharikapu" alt="visitor badge"/>       
-</p>
+
 <!--
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sriharikapu)](https://github.com/LordDashMe/github-contribution-stats/)
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=sriharikapu&show_icons=true&title_color=62BFAD&icon_color=79ff97&text_color=F7F8E8&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)

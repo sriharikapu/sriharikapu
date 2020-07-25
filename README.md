@@ -46,7 +46,7 @@ I'm fun to work with, I always like to learn new things from others as much as h
 
 
 <div align="right">
-<a   href="https://github.com/sriharikapu/sriharikapu/blob/master/.github/ISSUE_TEMPLATE/Guestbook_entry.md">
+<a   href="https://github.com/sriharikapu/sriharikapu/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
 <strong> ___ 🖋 Write into my guest book</strong></a>
 <br/>
 <br/>  

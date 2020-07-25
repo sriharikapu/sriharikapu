@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Srihari Kapu](https://github.com/sriharikapu/sriharikapu/blob/master/CO.png?raw=true)
 
 
-I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun, Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experement, learn, survive and thrive. Let's code for good.
+I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experement, learn, survive and thrive. Let's code for good.
 
 
 
@@ -36,6 +36,16 @@ I'm fun to work with, I always like to learn new things from others as much as h
 [![Website Badge](https://img.shields.io/badge/-sriharikapu-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=http://sriharikapu.com)](http://www.sriharikapu.com/)
 
 
+# Donut
+{{Donut-Chart}}
+- Project Lead: 9
+- NGO: 3
+- MAINTANCE: 4
+- HACKATHONS: 7
+- TECH LEAD: 11
+- PM: 6
+- PM: 6
+- Dev: 26
 
 
 <div align="right">

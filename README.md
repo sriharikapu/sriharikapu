@@ -35,7 +35,7 @@ I'm fun to work with, I always like to learn new things from others as much as h
 [![Sourcerer Badge](https://img.shields.io/badge/-sriharikapu-orange?style=flat-square&logo=Scribd&logoColor=white&link=https://sourcerer.io/sriharikapu)](https://sourcerer.io/sriharikapu)
 [![Website Badge](https://img.shields.io/badge/-sriharikapu-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=http://sriharikapu.com)](http://www.sriharikapu.com/)
 
-
+<div>
 # Donut
 {{Donut-Chart}}
 - Project Lead: 9
@@ -46,7 +46,7 @@ I'm fun to work with, I always like to learn new things from others as much as h
 - PM: 6
 - PM: 6
 - Dev: 26
-
+</div>
 
 <div align="right">
 <a   href="https://github.com/sriharikapu/sriharikapu/blob/master/.github/ISSUE_TEMPLATE/Guestbook_entry.md">

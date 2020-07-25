@@ -38,12 +38,13 @@ I'm fun to work with, I always like to learn new things from others as much as h
 
 
 
-
-<a  align="right" href="https://github.com/sriharikapu/sriharikapu/blob/master/.github/ISSUE_TEMPLATE/Guestbook_entry.md">
+<div align="right">
+<a   href="https://github.com/sriharikapu/sriharikapu/blob/master/.github/ISSUE_TEMPLATE/Guestbook_entry.md">
 <strong> ___ 🖋 Write into my guest book</strong></a>
-  
+<br/>
+<br/>  
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/sriharikapu163@gmail.com)
-
+</div>
 
 <!--
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sriharikapu)](https://github.com/LordDashMe/github-contribution-stats/)

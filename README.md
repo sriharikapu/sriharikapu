@@ -46,16 +46,18 @@ I'm fun to work with, I always like to learn new things from others as much as h
 
 
 <div align="right">
-<!-- [![Write into my guest book](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/sriharikapu/sriharikapu/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook) -->
+<!-- 
+[![Write into my guest book](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/sriharikapu/sriharikapu/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook) 
 <a   href="https://github.com/sriharikapu/sriharikapu/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
 <strong> ___ 🖋 Write into my guest book</strong></a>
+-->
 <br/>
 <br/>  
+
+[![Write into my guest book](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/sriharikapu/sriharikapu/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook)
   
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/sriharikapu163@gmail.com)
 
-
-[![Write into my guest book](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/sriharikapu/sriharikapu/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook)
 </div>
 
 <!--

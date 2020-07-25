@@ -42,6 +42,10 @@ I'm fun to work with, I always like to learn new things from others as much as h
 -->
 
 
+> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
+> -- Steve Jobs
+
+
 <div align="right">
 <a   href="https://github.com/sriharikapu/sriharikapu/blob/master/.github/ISSUE_TEMPLATE/Guestbook_entry.md">
 <strong> ___ 🖋 Write into my guest book</strong></a>

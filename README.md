@@ -36,17 +36,6 @@ I'm fun to work with, I always like to learn new things from others as much as h
 [![Website Badge](https://img.shields.io/badge/-sriharikapu-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=http://sriharikapu.com)](http://www.sriharikapu.com/)
 
 
-# Donut
-{{Donut-Chart}}
-- Project Lead: 9
-- NGO: 3
-- MAINTANCE: 4
-- HACKATHONS: 7
-- TECH LEAD: 11
-- PM: 6
-- PM: 6
-- Dev: 26
-
 
 
 <div align="right">

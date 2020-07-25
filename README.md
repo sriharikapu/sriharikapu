@@ -37,6 +37,58 @@ I'm fun to work with, I always like to learn new things from others as much as h
 
 
 
+# Tools (Table)
+
+| Tool | LOC/Commits  |   
+| :--- | -------: | 
+| JavaScript Web | 232  | 
+| react | 38744 | 
+| express | 5576    | 
+| bootstrap | 155   | 
+| jquery | 37   | 
+| cookies | 1133   | 
+| flux | 628   | 
+| vue | 1245   | 
+| react-router | 7   | 
+| ant-design | 222   | 
+| jquery-validation | 277   | 
+| redux | 144   | 
+| browserify | 17   | 
+| DevOps | 223   | 
+| Docker | 57   | 
+| Travis CI | 502   | 
+| Testing | 214   | 
+| pytest | 358   | 
+| tape | 28   | 
+| Chai | 7210   | 
+| mocha | 19   | 
+| tap | 270   | 
+| jest | 598   | 
+| Karma | 368   | 
+| Coverage.py | 2149   | 
+| Utilities | 213   | 
+| path.py | 97   | 
+| config | 1245   | 
+| lodash | 95   | 
+| moment | 229   | 
+| Guava | 125   | 
+| Application Architecture | 157   | 
+| async | 25376   | 
+| Boost.Signals2 | 675   | 
+| Boost | 1592   | 
+| Internet | 154   | 
+| request http-client | 49003   | 
+| axios http-client | 16   | 
+| Engineering Tools | 54   | 
+| Eslint | 8   | 
+| less | 16425   | 
+| gulp | 32   | 
+| Data Science | 49   | 
+| d3 | 25   | 
+| pandas | 3   | 
+
+
+
 
 <div align="right">
 <a   href="https://github.com/sriharikapu/sriharikapu/blob/master/.github/ISSUE_TEMPLATE/Guestbook_entry.md">

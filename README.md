@@ -37,10 +37,8 @@ I'm fun to work with, I always like to learn new things from others as much as h
 
 
 # Fun Facts
-<div>
-  <div align="right">![Stats](https://github.com/sriharikapu/sriharikapu/blob/master/stats.png?raw=true)</div>
-  <div align="left">![Stats](https://github.com/sriharikapu/sriharikapu/blob/master/stats-w.png?raw=true)</div>
-</div>
+| ![Stats](https://github.com/sriharikapu/sriharikapu/blob/master/stats.png?raw=true) | ![Stats](https://github.com/sriharikapu/sriharikapu/blob/master/stats-w.png?raw=true)  | 
+
 
 
 <div align="right">
